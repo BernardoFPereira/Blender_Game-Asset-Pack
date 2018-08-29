@@ -1,1 +1,2 @@
-Blender_Game Asset Pack
+# Blender_Game Asset Pack
+GaeDev.TV Blender course.
