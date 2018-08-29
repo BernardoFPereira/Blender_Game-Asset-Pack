@@ -1,3 +1,4 @@
 #Blender Ignore list
 
-.DS_Store
+*.DS_Store
+*.blend1
